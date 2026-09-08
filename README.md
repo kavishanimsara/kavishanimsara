@@ -72,4 +72,4 @@
 
 - **LinkedIn:** [in/kavisha-nimsara-895102293](https://linkedin.com/in/kavisha-nimsara-895102293)
 - **GitHub:** [@kavishanimsara](https://github.com/kavishanimsara)
-- **Email:** [kavishanimsara@example.com](mailto:your-email@example.com) *(Update with your primary email)*
+- **Email:** [kavisha.nimsar@gmail.com](mailto:kavisha.nimsar@gmail.com)
