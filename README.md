@@ -52,7 +52,7 @@
 | [**CBSL-Macro-Financial-and-Energy-Grid-Forecasting**](https://github.com/kavishanimsara/CBSL-Macro-Financial-and-Energy-Grid-Forecasting) | Time-Series & Econometrics | Multi-variable forecasting analyzing Central Bank of Sri Lanka macroeconomic drivers alongside national grid demand. |
 | [**NLP-mini-project**](https://github.com/kavishanimsara/NLP-mini-project) | Natural Language Processing | Text pre-processing, vectorization, and sentiment/intent classification workflows. |
 | [**House_Price_Prediction**](https://github.com/kavishanimsara/House_Price_Prediction) | Supervised Regression | End-to-end exploratory data analysis, feature transformation, and evaluation across regularized & ensemble regression models. |
-| [**Online_notes_sharing_platform**](https://github.com/kavishanimsara/Online_notes_sharing_platform) | Web & Backend Architecture | Full-stack platform implementing user authentication, secure database design, and structured CRUD workflows using Django & SQL. |
+| [**Online_notes_sharing_platform**](https://github.com/kavishanimsara/Online_notes_sharing_platform) | Web & Backend Architecture | Full-stack platform implementing user authentication, secure database design, and structured CRUD workflows using PHP & SQL. |
 | [**MusicStudy**](https://github.com/kavishanimsara/MusicStudy) | Exploratory Data Analysis | Data analysis inspecting behavioral patterns and acoustic parameters. |
 
 </details>
